@@ -1,0 +1,9 @@
+[package]
+name = "rust-roadshow-rj"
+version = "0.1.0"
+repository = "https://github.com/GiovanniSM20/rust-roadshow.rs"
+readme = "README.md"
+license = "MIT"
+authors = ["Martins Giovanni <giovannimartins2000@gmail.com>"]
+
+[dependencies]
